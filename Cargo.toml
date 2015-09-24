@@ -1,4 +1,9 @@
 [package]
 name = "autodio"
 version = "0.1.0"
-authors = ["Cory <cory6677@gmail.com>"]
+authors = ["Moxcr <moxcr1@gmail.com>"]
+
+[dependencies]
+
+rand = "0.3"
+bufstream = "0.1"
