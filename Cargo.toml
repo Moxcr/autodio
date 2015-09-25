@@ -6,4 +6,3 @@ authors = ["Moxcr <moxcr1@gmail.com>"]
 [dependencies]
 
 rand = "0.3"
-bufstream = "0.1"
